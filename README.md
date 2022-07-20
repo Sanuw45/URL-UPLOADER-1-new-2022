@@ -9,7 +9,7 @@
 
 #### Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/unknownkidnapper/URL-UPLOADER)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/Sanuw45/URL-UPLOADER-1-new-2022)
 
 
 ## Credits, and Thanks to Beloved Developers ;
